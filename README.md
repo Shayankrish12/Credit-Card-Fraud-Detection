@@ -25,3 +25,5 @@ Python
 Pandas & NumPy (Data Processing)
 
 Scikit-learn (Machine Learning)
+
+The link for the dataset used for this project:-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
